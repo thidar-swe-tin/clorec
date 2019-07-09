@@ -1,0 +1,84 @@
+.db_box {
+  background: rgb(211,242,223);
+}
+.d_box {
+  padding: 40px;
+  margin: 25px;
+  background: rgb(227,216,229);
+}
+.d_box1 {
+  background: rgb(55,27,117);
+}
+.i_box_50 {
+  display: block;
+  margin-right: auto;
+  width: 50%;
+}
+.i_box_40 {
+  display: block;
+  margin-right: auto;
+  width: 40%;
+}
+.i_box_30 {
+  display: block;
+  margin-right: auto;
+  width: 30%;
+}
+.i_box_20 {
+  display: block;
+  margin-right: auto;
+  width: 20%;
+}
+.skyblue {
+  background: deepskyblue;
+}
+
+h3{
+  color: rgb(95,11,87) 
+}
+.purple {
+  background: rebeccapurple;
+}
+
+.white {
+  background: white;
+}
+
+.red {
+  background: indianred;
+}
+strong {
+  color: rgb(95,11,87)
+}
+.navbar-brand {
+  color: rgb(95,11,87)
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 15px;
+  border: 3px;
+}
+table {
+  font-size: 8pt;
+  text-align: center;
+  width: auto;
+  table-layout:fixed;
+}
+td {
+  text-align: center;
+}
+
+.container-fluid {
+  display:none;
+}
+
+
+@media (max-width: 540px) {
+  .container-fluid {
+    display:unset;
+
+  }  
+}
+
